@@ -1,0 +1,10 @@
+.idea/
+.project
+.settings/
+.classpath
+logs/
+*.iml
+*/target/
+xiaoheigou.txt
+*.xls
+*.xlsx
